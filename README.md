@@ -2,7 +2,7 @@
 
 I'm a Computer Science student at Colgate University graduating in December 2025, with minors in Mathematics and Economics. I'm passionate about systems programming, open-source development, and building tools that help people focus and work more effectively.
 
-## 🔭 What I'm Working On
+## → What I'm Working On
 
 - **Screen Time Manager for Sway WM** - A Terminal User Interface application using ncurses that tracks and manages application usage to minimize digital distraction. Built with C/C++, SQLite, and multithreading for asynchronous monitoring.
 - **Contributing to Unlauncher** - Adding accessibility features to this open-source Android launcher, including dynamic font-size adjustment in Kotlin.
@@ -13,7 +13,7 @@ I'm a Computer Science student at Colgate University graduating in December 2025
 
 **Tools:** Git, Linux, Bash, Vim, SQL, SQLite, Matlab, Macaulay2, Figma, ncurses
 
-## 🌟 Featured Projects
+## ⚡ Featured Projects
 
 - **E-ink Accessibility Configuration for Arch Linux** - Comprehensive configuration optimizing laptop experience on black-and-white E-ink displays, with automated color scheme switching using bash and shell scripting
 - **Classifying Mathematical Information with LLMs** - Analyzed classification accuracy of LLMs on mathematical content using Python and Jupyter Notebook
@@ -45,11 +45,11 @@ I'm a Computer Science student at Colgate University graduating in December 2025
 - Taught 22 students music theory and how to use Logic Pro X to make professional-quality electronic music
 - Designed a curriculum that ran 8 hours a week, inspiring 3 students to pursue digital music in university
 
-## 🎯 Interests
+## ★ Interests
 
 When I'm not coding, you can find me hiking, long-distance running, biking, or exploring philosophy and meditation.
 
-## 📫 Where else you can find me
+## ↗ Where else you can find me
 
 - Portfolio: [ethanrackleff.github.io/portfolio-website](ethanrackleff.github.io/portfolio-website)
 - LinkedIn: [linkedin.com/in/ethan-rackleff](https://linkedin.com/in/ethan-rackleff)
