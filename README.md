@@ -1,5 +1,4 @@
 # Hi there, I'm Ethan...
-
 a Computer Science student at Colgate University graduating in December 2025, with minors in Mathematics and Economics. I'm passionate about systems programming, open-source development, and building tools that help people focus and work more effectively.
 
 ## → What I'm Working On
